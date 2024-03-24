@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(./asset/images/islamic-lantern-with-blurred-mosque-background-al-fitr-adha-eid_1123-287.avif);
+    background-repeat: no-repeat;
+    /* background-position: center; */
+    background-size: cover;
+}
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 600px;
+    color: #fff;
+    font-size: 30px;
+}
+.btn{
+    padding: 5px 30px;
+}
